@@ -48,7 +48,7 @@ const winFunction = (letter) => {
   // Função para empate
   const drawFunction = ()=> {
     disableButtons();
-    msgRef.innerText = "&#x1f60e; <br> Jogo de pato. Empatado";
+    msgRef.innerText = "Jogo de pato. <br> Empatado";
   }
 
 
