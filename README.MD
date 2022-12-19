@@ -14,6 +14,7 @@ Projeto construido com intuito de treinar JS e se divertir um pouco logo após
 ## 🛠 Tecnologias 
 - HTML
 - CSS
+- JAVASCRTIP
 - GIT E GITHUB
 
 ## Contato
